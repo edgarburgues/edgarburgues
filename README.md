@@ -16,13 +16,13 @@ I'm a developer interested on task automation, bots and every kind of new and ex
 | :-------------------------: | :----------------------------------: |
 | ![statsOscuro][statsOscuro] | ![lenguajesOscuro][lenguajesOscuro]  |
 
-[statsOscuro]: https://github-readme-stats.vercel.app/api?username=la-lo-go&show_icons=true&hide_title=true&hide=issues&theme=blueberry&hide_border=true&border_radius=2%#gh-dark-mode-only
+[statsOscuro]: https://github-readme-stats.vercel.app/api?username=edgarburgues&show_icons=true&hide_title=true&hide=issues&theme=blueberry&hide_border=true&border_radius=2%#gh-dark-mode-only
 
-[statsClaros]: https://github-readme-stats.vercel.app/api?username=la-lo-go&show_icons=true&hide_title=true&theme=buefy&hide_border=true&border_radius=2%#gh-light-mode-only
+[statsClaros]: https://github-readme-stats.vercel.app/api?username=edgarburgues&show_icons=true&hide_title=true&theme=buefy&hide_border=true&border_radius=2%#gh-light-mode-only
 
-[lenguajesOscuro]: https://github-readme-stats.vercel.app/api/top-langs/?username=la-lo-go&layout=compact&hide_title=true&theme=blueberry&hide_border=true&border_radius=2%&langs_count=6#gh-dark-mode-only
+[lenguajesOscuro]: https://github-readme-stats.vercel.app/api/top-langs/?username=edgarburgues&layout=compact&hide_title=true&theme=blueberry&hide_border=true&border_radius=2%&langs_count=6#gh-dark-mode-only
 
-[lenguajesClaro]: https://github-readme-stats.vercel.app/api/top-langs/?username=la-lo-go&layout=compact&hide_title=true&theme=buefy&hide_border=true&border_radius=2%&langs_count=6#gh-light-mode-only
+[lenguajesClaro]: https://github-readme-stats.vercel.app/api/top-langs/?username=edgarburgues&layout=compact&hide_title=true&theme=buefy&hide_border=true&border_radius=2%&langs_count=6#gh-light-mode-only
 
 # Tech Stack
 ## Languages
