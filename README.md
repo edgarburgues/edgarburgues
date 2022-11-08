@@ -49,7 +49,6 @@ I'm a developer interested game development, full stack web development and elec
 <a href="https://www.mysql.com/"><img width="9%" src="imgs/mysql-original-wordmark.svg" alt="MySQL"/></a>
 <a href="https://www.sqlite.org/index.html"><img width="9%" src="imgs/Sqlite-square-icon.svg" alt="SQLite"/></a>
 <a href="https://www.postgresql.org/"><img width="9%" src="imgs/postgresql-plain.svg" alt="Postgresql"/></a>
-<a href="https://www.mongodb.com/en"><img width="9%" src="imgs/mongodb-plain-wordmark.svg" alt="MongoDB"/></a>
 <img width="9%" src="imgs/microsoftsqlserver-plain-wordmark-ligth.svg#gh-dark-mode-only" alt="Microsoft SQL Server"/>
 <img width="9%" src="imgs/microsoftsqlserver-plain-wordmark-dark.svg#gh-light-mode-only" alt="Microsoft SQL Server"/>
 
@@ -61,18 +60,14 @@ I'm a developer interested game development, full stack web development and elec
 <a href="https://docker.com/"><img width="9%" src="imgs/docker-plain-wordmark.svg" alt="Visual Studio"/></a>
 
 <a href="https://www.notion.so/product/"><img width="9%" src="imgs/Notion-logo.svg" alt="Notion"/></a>
-<a href="https://www.postman.com/"><img width="9%" src="imgs/getpostman-icon.svg" alt="Postman"/></a>
 <a href="https://www.raspberrypi.org/"><img width="9%" src="imgs/raspberrypi-original.svg" alt="Raspberry Pi"/></a>
-<img width="9%" src="imgs/railway-light.svg#gh-dark-mode-only" alt="Railway"/>
-<img width="9%" src="imgs/railway-dark.svg#gh-light-mode-only" alt="Railway"/>
 <a href="https://www.office.com/"><img width="9%" src="imgs/Microsoft_Office_logo_(2019–present).svg" alt="Office"/></a>
 <a href="https://git-scm.com/"><img width="9%" src="imgs/git-original.svg" alt="Git"/></a>
 <img width="9%" src="imgs/github-dark.svg#gh-light-mode-only" alt="Github"/>
 <img width="9%" src="imgs/github-ligth.svg#gh-dark-mode-only" alt="Github"/>
-<a href="https://www.selenium.dev/"><img width="9%" src="imgs/selenium-original.svg" alt="Selenium"/></a>
 
 # Game development
-<a href="https://www.https://unity.com/es"><img width="9%" src="imgs/unity-original.svg" alt="Unity"/></a>
+<a href="https://www.https://unity.com/es"><img width="9%" src="imgs/unity-original.svg#gh-light-mode-only" alt="Unity"/></a>
 
 
 # Socialmedia
