@@ -67,7 +67,8 @@ I'm a developer interested game development, full stack web development and elec
 <img width="9%" src="imgs/github-ligth.svg#gh-dark-mode-only" alt="Github"/>
 
 # Game development
-<a href="https://www.https://unity.com/es"><img width="9%" src="imgs/unity-original.svg#gh-light-mode-only" alt="Unity"/></a>
+<a href="https://www.https://unity.com/es"><img width="9%" src="imgs/unity-light.svg#gh-light-mode-only" alt="Unity"/></a>
+<a href="https://www.https://unity.com/es"><img width="9%" src="imgs/unity-dark.svg#gh-dark-mode-only" alt="Unity"/></a>
 
 
 # Socialmedia
