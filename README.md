@@ -8,7 +8,7 @@
 <div id="content" align="center">
 
 # Hello world! I'm Edgar 👋
-I'm a developer interested on task automation, bots and every kind of new and exciting technology in general! 
+I'm a developer interested game development, full stack web development and electronics. Currently I'm studying multiplatform application development at IMF Smart Education Capitol.
 
 
 
@@ -71,12 +71,9 @@ I'm a developer interested on task automation, bots and every kind of new and ex
 <img width="9%" src="imgs/github-ligth.svg#gh-dark-mode-only" alt="Github"/>
 <a href="https://www.selenium.dev/"><img width="9%" src="imgs/selenium-original.svg" alt="Selenium"/></a>
 
-# Graphic Desing Stack
-<a href="https://www.adobe.com/products/photoshop.html"><img width="9%" src="imgs/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop"/></a>
-<a href="https://www.adobe.com/products/illustrator.html"><img width="9%" src="imgs/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator"/></a>
-<a href="https://www.adobe.com/products/premiere.html"><img width="9%" src="imgs/Adobe_Premiere_Pro_CC_logo.svg" alt="Adobe Premiere"/></a>
-<a href="https://www.adobe.com/products/indesign.html"><img width="9%" src="imgs/Adobe_InDesign_CC_logo.svg" alt="Adobe InDesign"/></a> 
-<a href="https://affinity.serif.com/en-gb/designer/"><img width="9%" src="imgs/AffinityDesigner.svg" alt="Affinity Designer"/></a>
+# Game development
+<a href="https://www.https://unity.com/es"><img width="9%" src="imgs/unity-original.svg" alt="Unity"/></a>
+
 
 # Socialmedia
 <a href="https://twitter.com/la_lo_go"><img height="9%" src="imgs/TWITTER_badge.svg" alt="Twitter"/></a>
