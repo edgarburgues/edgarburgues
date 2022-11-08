@@ -70,6 +70,9 @@ I'm a developer interested game development, full stack web development and elec
 <img width="9%" src="imgs/unity-light.svg#gh-light-mode-only" alt="Unity"/>
 <img width="9%" src="imgs/unity-dark.svg#gh-dark-mode-only" alt="Unity"/>
 
+<a href="https://www.jetbrains.com/es-es/rider/"><img width="9%" src="imgs/JetBrains_Rider_Icon.svg" alt="JetBrains Rider"/></a>
+
+
 
 # Socialmedia
 <a href="https://twitter.com/la_lo_go"><img height="9%" src="imgs/TWITTER_badge.svg" alt="Twitter"/></a>
