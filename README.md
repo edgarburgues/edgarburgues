@@ -69,13 +69,13 @@ I'm a developer interested game development, full stack web development and elec
 # Game development
 <img width="9%" src="imgs/unity-light.svg#gh-light-mode-only" alt="Unity"/>
 <img width="9%" src="imgs/unity-dark.svg#gh-dark-mode-only" alt="Unity"/>
-
 <a href="https://www.jetbrains.com/es-es/rider/"><img width="9%" src="imgs/JetBrains_Rider_Icon.svg" alt="JetBrains Rider"/></a>
 
 
 
 # Socialmedia
-<a href="https://twitter.com/la_lo_go"><img height="9%" src="imgs/TWITTER_badge.svg" alt="Twitter"/></a>
+<a href="https://twitter.com/ElegarSC"><img height="9%" src="imgs/TWITTER_badge.svg" alt="Twitter"/></a>
+<a href="https://www.instagram.com/elegarsc/"><img height="9%" src="imgs/TWITTER_badge.svg" alt="Instagram"/></a>
 <a href="https://www.behance.net/la-lo-go"><img height="9%" src="imgs/BEHANCE_badge.svg" alt="Behance"/></a>
 <a href="https://www.youtube.com/watch?v=8yMJI918ub4"><img height="9%" src="imgs/PAYPAL_badge.svg" alt="PayPal"/></a>
 </div>
