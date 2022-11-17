@@ -10,6 +10,9 @@
 # Hello world! I'm Edgar 👋
 I'm a developer interested game development, full stack web development and electronics. Currently I'm studying multiplatform application development at IMF Smart Education Capitol.
 
+# My CV
+
+
 
 
 |        Github stats         |         Most used languages          |
@@ -78,6 +81,5 @@ I'm a developer interested game development, full stack web development and elec
 <a href="https://twitter.com/ElegarSC"><img height="9%" src="imgs/TWITTER_badge.svg" alt="Twitter"/></a>
 <a href="https://www.linkedin.com/in/edgar-fernández-diéguez-a229b922b/"><img height="9%" src="imgs/LinkedIn_badge.svg" alt="LinkedIn"/></a>
 
-<a href="https://www.behance.net/la-lo-go"><img height="9%" src="imgs/BEHANCE_badge.svg" alt="Behance"/></a>
 <a href="https://www.youtube.com/watch?v=8yMJI918ub4"><img height="9%" src="imgs/PAYPAL_badge.svg" alt="PayPal"/></a>
 </div>
