@@ -7,7 +7,7 @@
 -->
 <div id="content" align="center">
 
-# Hello world! I'm Edgar 👋
+# I'm Edgar 👋
 I'm a developer interested game development, full stack web development and electronics. Currently I'm studying multiplatform application development at IMF Smart Education Capitol.
 
 # My CV
