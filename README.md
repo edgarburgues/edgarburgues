@@ -11,7 +11,7 @@
 I'm a developer interested game development, full stack web development and electronics. Currently I'm studying multiplatform application development at IMF Smart Education Capitol.
 
 # My CV
-👉👉<a href="https://mnf.red/edgar"><img width="9%" src="imgs/logo-manfred.svg" alt="Manfred"/></a>👈👈
+👉👉 <a href="https://mnf.red/edgar"><img width="14%" src="imgs/logo-manfred.svg" alt="Manfred"/></a> 👈👈
 
 
 
