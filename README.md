@@ -3,4 +3,4 @@
 
 # Hi there 👋
 
-I'm Edgar, a software developer from Spain. I'm currently working as a full-stack developer at [**Santander**](https://www.santander.com/).
+I'm Edgar, a software developer from Spain. I'm currently studying multiplatform development at [IMF Smart Education Capitol](https://www.imf-formacion.com/).
