@@ -15,8 +15,7 @@ Hello! I'm Edgar, currently working as a Junior Technical Consultant at Axazure.
 - 🚀 Exploring new technologies
 
 ## Contact Me:
-- 📧 Email: [youremail@email.com](mailto:youremail@email.com)
-- 💼 LinkedIn: [Your Name on LinkedIn](https://www.linkedin.com/in/yourname/)
-- 🔗 GitHub: [Your Name on GitHub](https://github.com/yourname)
+- 📧 Email: [edgarfdieguez@gmail.com](mailto:edgarfdieguez@gmail.com)
+- 💼 LinkedIn: [Edgar Fernández Diéguez](https://www.linkedin.com/in/edgar-fern%C3%A1ndez-di%C3%A9guez-a229b922b/)
 
 I'm excited about learning and collaboration opportunities! Feel free to connect with me or reach out to discuss interesting projects or share ideas. Let's do amazing things together!
