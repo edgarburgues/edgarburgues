@@ -1,6 +1,22 @@
-<!-- https://github.com/kyechan99/capsule-render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Edgar%20Fernández&fontColor=ffffff&fontSize=90)
+# Junior Technical Consultant at Axazure
 
-# &nbsp;Hi there 👋
+Hello! I'm [Your Name], currently working as a Junior Technical Consultant at Axazure.
 
-I'm Edgar, a software developer from Spain. I'm currently studying multiplatform development at [IMF Smart Education Capitol](https://www.imf-formacion.com/).
+## About Me:
+- 🔧 As a technical consultant, I'm passionate about working on challenging projects and finding innovative solutions to problems.
+- 🖨️ Besides my work in technology, I'm a 3D printing enthusiast. I enjoy designing and creating 3D objects, exploring new techniques, and materials.
+- 🌐 I'm building my own server to learn more about system administration and web hosting. It's an exciting project in constant evolution.
+
+## My Interests:
+- 👨‍💻 Software development
+- 🌐 System administration
+- 🖨️ 3D printing
+- 🌱 Personal projects
+- 🚀 Exploring new technologies
+
+## Contact Me:
+- 📧 Email: [youremail@email.com](mailto:youremail@email.com)
+- 💼 LinkedIn: [Your Name on LinkedIn](https://www.linkedin.com/in/yourname/)
+- 🔗 GitHub: [Your Name on GitHub](https://github.com/yourname)
+
+I'm excited about learning and collaboration opportunities! Feel free to connect with me or reach out to discuss interesting projects or share ideas. Let's do amazing things together!
