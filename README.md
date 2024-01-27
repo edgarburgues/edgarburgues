@@ -1,6 +1,6 @@
 # Junior Technical Consultant at Axazure
 
-Hello! I'm Edgar, currently working as a Junior Technical Consultant at Axazure.
+Hello! I'm Edgar, currently working as a Junior Technical Consultant.
 
 ## About Me:
 - 🔧 As a technical consultant, I'm passionate about working on challenging projects and finding innovative solutions to problems.
