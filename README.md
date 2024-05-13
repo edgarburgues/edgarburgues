@@ -1,4 +1,4 @@
-# Junior Technical Consultant at Axazure
+# Junior Technical Consultant
 
 Hello! I'm Edgar, currently working as a Junior Technical Consultant.
 
