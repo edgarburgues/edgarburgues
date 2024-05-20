@@ -28,7 +28,7 @@ Hello! I'm Edgar, currently working as a Junior Technical Consultant.
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/nodejs.png" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/bootstrap.png" width="70"/>
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" width="70"/>
-  <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Symbol.png" width="70"/>
+  <img src="https://static.wikia.nocookie.net/logopedia/images/c/c7/Microsoft_.NET_StartupImage.svg/revision/latest?cb=20210721191943&path-prefix=es" width="70"/>
 </div>
 
 ## Herramientas de Desarrollo:
