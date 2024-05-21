@@ -1,5 +1,6 @@
-# Junior Technical Consultant
+# Edgar Fernández
 
+## What I'm listening to on Youtube Music
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://ytmusic-python-api.azurewebsites.net/svg?nocache=timestamps" alt="YTMusic Widget"/>
 </div>
