@@ -6,7 +6,7 @@
 </div>
 
 ## Programming Languages:
-<div>
+<div align="center">
   <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/javascript.png" width="70"/>
@@ -19,7 +19,7 @@
 </div>
 
 ## Frameworks and Libraries:
-<div>  
+<div align="center">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" width="80"/>
@@ -30,7 +30,7 @@
 </div>
 
 ## Development Tools:
-<div>  
+<div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/microsoft.png" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/docker.png" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/git.png" width="70"/>
