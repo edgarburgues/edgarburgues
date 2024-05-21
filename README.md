@@ -1,7 +1,7 @@
 # Edgar Fernández
 
 ## What I'm listening to on Youtube Music
-<div>
+<div align="center">
   <img src="https://ytmusic-python-api.azurewebsites.net/svg?nocache=timestamps" alt="YTMusic Widget"/>
 </div>
 
