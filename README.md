@@ -4,7 +4,11 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://ytmusic-python-api.azurewebsites.net/svg?nocache=timestamps" alt="YTMusic Widget"/>
 </div>
-
+|  a | What I'm listening to on Youtube Music                                                                |   |   |   |
+|---|-------------------------------------------------------------------------------------------------------|---|---|---|
+| a  | <img src="https://ytmusic-python-api.azurewebsites.net/svg?nocache=timestamps" alt="YTMusic Widget"/> |   |   |   |
+|   |                                                                                                       |   |   |   |
+|   |                                                                                                       |   |   |   |
 
 ## Programming Languages:
 <div style="display: flex; align-items: center; justify-content: space-around;">
