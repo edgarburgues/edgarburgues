@@ -44,3 +44,5 @@ Hello! I'm Edgar, currently working as a Junior Technical Consultant.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" width="70"/>
   <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="70"/>
 </div>
+
+<img height="50%" width="50%" src="https://ytmusic-python-api.azurewebsites.net/svg" alt="Spotify widget"/>
