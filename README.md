@@ -46,4 +46,4 @@ Hello! I'm Edgar, currently working as a Junior Technical Consultant.
 </div>
 
 ## Última canción escuchada en YouTube Music:
-<img src="https://ytmusic-python-api.azurewebsites.net/svg?nocache=timestamp" alt="YTMusic Widget"/>
+<img src="https://ytmusic-python-api.azurewebsites.net/svg?nocache=timestamps" alt="YTMusic Widget"/>
