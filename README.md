@@ -5,10 +5,6 @@
   <img height="50%" width="50%" src="https://ytmusic-python-api.azurewebsites.net/svg?nocache=timestamps" alt="YTMusic Widget"/>
 </div>
 
-<div align="center">
-  <img src="https://ytmusic-python-api.azurewebsites.net/svg?nocache=timestamps" alt="YTMusic Widget"/>
-</div>
-
 ## Programming Languages:
 <div align="center">
   <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" width="70"/>
