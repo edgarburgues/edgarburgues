@@ -14,7 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" width="70">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/csharp.png" width="70">
-  <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/dotnetCore.component.complex-narrative-xl.ts=1691583540732.png" width="145"/>
   <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="70"/>
 </div>
 
