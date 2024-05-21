@@ -2,10 +2,11 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
-    ## About Me:
-    - 🔧 As a technical consultant, I'm passionate about working on challenging projects and finding innovative solutions to problems.
-    - 🖨️ Besides my work in technology, I'm a 3D printing enthusiast. I enjoy designing and creating 3D objects, exploring new techniques, and materials.
-    - 🌐 I'm building my own server to learn more about system administration and web hosting. It's an exciting project in constant evolution.
+    <ul>
+      <li>🔧 As a technical consultant, I'm passionate about working on challenging projects and finding innovative solutions to problems.</li>
+      <li>🖨️ Besides my work in technology, I'm a 3D printing enthusiast. I enjoy designing and creating 3D objects, exploring new techniques, and materials.</li>
+      <li>🌐 I'm building my own server to learn more about system administration and web hosting. It's an exciting project in constant evolution.</li>
+    </ul>
   </div>
   <div>
     <img src="https://ytmusic-python-api.azurewebsites.net/svg?nocache=timestamps" alt="YTMusic Widget"/>
