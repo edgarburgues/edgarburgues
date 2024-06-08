@@ -2,7 +2,7 @@
 
 ## What I'm listening to on Youtube Music
 <div align="center">
-  <img height="50%" width="50%" src="https://ytmusic-python-api.azurewebsites.net/svg?nocache=timestamps" alt="YTMusic Widget"/>
+  [<img height="50%" width="50%" src="https://ytmusic-python-api.azurewebsites.net/svg?nocache=timestamps" alt="YTMusic Widget"/>](https://youtubemusiclivesvg.azurewebsites.net/api/svg)
 </div>
 
 ## Programming Languages:
