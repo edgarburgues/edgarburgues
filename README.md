@@ -2,7 +2,7 @@
 
 ## What I'm listening to on Youtube Music
 <div align="center">
-  <img src="https://youtubemusiclivesvg.azurewebsites.net/api/svg-vinyl" alt="YTMusic Widget"/>
+  <img src="https://youtubemusiclivesvg.azurewebsites.net/api/svg" alt="YTMusic Widget"/>
 </div>
 
 ## Programming Languages:
