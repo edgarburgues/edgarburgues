@@ -4,10 +4,10 @@
 <div align="center">
   <img src="https://youtubemusiclivesvg.azurewebsites.net/api/svg" alt="YTMusic Widget"/>
 </div>
+  <img src="[https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png](https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/html.png)" width="70"/>
 
 ## Programming Languages:
 <div align="center">
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/javascript.png" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/typescript.png" width="70"/>
